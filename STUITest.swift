@@ -1,6 +1,5 @@
 //  Created by Stanislav Khvalinskyi on 7/30/17.
 //  Copyright © 2017 Atlassian. All rights reserved.
-//
 
 import Foundation
 import XCTest
